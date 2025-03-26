@@ -8,6 +8,18 @@
 
 **CVBS - Blackmagic Intensity Pro (CVBS out) -> DataVideo TBC-7000 (CVBS in) -> JVC GR-D53E**
 
+## REF 
+![](REF.jpg)
+
+## LOOPBACK
+![](LOOPBACK.jpg)
+
+## YC
+![](YC.jpg)
+
+## CVBS
+![](CVBS.jpg)
+
 Hardware used: 
 * Blackmagic Intensity Pro
 * DataVideo TBC-7000 (Y/C output)
