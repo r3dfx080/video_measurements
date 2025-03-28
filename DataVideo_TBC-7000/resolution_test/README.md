@@ -1,4 +1,4 @@
-### Non scientific visual resolution test of DataVideo TBC-7000
+## Non scientific visual resolution test of DataVideo TBC-7000
 
 **REF - reference digital image**
 
