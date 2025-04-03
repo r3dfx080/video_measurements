@@ -1,10 +1,19 @@
 # JVC HR-S7700EU picture modes test
 
+<hr>
+
 * **DNR/TBC** ON
 * **S-VHS ET** recording
 * **B.E.S.T** OFF
 
-JVC HR-S7700EU -> Blackmagic Intensity Pro (Y/C)
+<hr>
 
-> [!IMPORTANT]  
-> These are RAW screen grabs from Blackmagic Media Express. Use compatible software to open .tga files!
+### JVC HR-S7700EU -> Blackmagic Intensity Pro (Y/C)
+
+### DNR
+
+![DNR.png](DNR.png)
+
+### NO DNR
+
+![NO_DNR.png](NO_DNR.png)
