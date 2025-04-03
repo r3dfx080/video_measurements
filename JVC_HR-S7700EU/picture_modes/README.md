@@ -1,21 +1,35 @@
-# JVC HR-S7700EU DNR test
+# JVC HR-S7700EU picture modes comparison
 
 <hr>
 
 * **DNR/TBC** ON
 * **S-VHS ET** recording
 * **B.E.S.T** OFF
-* **EDIT mode**
 
 <hr>
 
 ### JVC HR-S7700EU -> Blackmagic Intensity Pro (Y/C)
 
 <hr>
- 
-**DNR**
-![DNR.png](..%2FDNR_vs_NODNR%2FDNR.png)
 
-**NO DNR**
+### NORMAL
 
-![NO_DNR.png](..%2FDNR_vs_NODNR%2FNO_DNR.png)
+![NORM.png](NORM.png)
+
+<hr>
+
+### EDIT
+
+![EDIT.png](EDIT.png)
+
+<hr>
+
+### SOFT
+
+![SOFT.png](SOFT.png)
+
+<hr>
+
+### SHARP
+
+![SHARP.png](SHARP.png)

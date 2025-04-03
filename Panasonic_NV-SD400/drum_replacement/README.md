@@ -13,10 +13,10 @@
 
 <hr>
 
-**OLD**
+### OLD
 
 ![old_drum.png](OLD_DRUM_FOXBARS.png)
 
-**NEW**
+### NEW
 
 ![new_drum.png](NEW_DRUM_FOXBARS.png)
