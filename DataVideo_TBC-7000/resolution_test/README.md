@@ -1,4 +1,6 @@
-## Non scientific visual resolution test of DataVideo TBC-7000
+## Non-scientific visual resolution test of DataVideo TBC-7000
+
+<hr>
 
 **REF - reference digital image**
 
@@ -8,24 +10,35 @@
 
 **CVBS - Blackmagic Intensity Pro (CVBS out) -> DataVideo TBC-7000 (CVBS in) -> JVC GR-D53E**
 
-## REF 
-![](REF.jpg)
+<hr>
 
-## LOOPBACK
-![](LOOPBACK.jpg)
-
-## YC
-![](YC.jpg)
-
-## CVBS
-![](CVBS.jpg)
-
-Hardware used: 
+**Hardware used:**
 * Blackmagic Intensity Pro
 * DataVideo TBC-7000 (Y/C output)
 * JVC GR-D53E (Y/C input, FireWire output)
 
-Software used:
+**Software used:**
 * Davinci Resolve (output)
 * Scenalyzer Live (DV capture)
+
+<hr>
+
+### REF 
+![](REF.jpg)
+
+<hr>
+
+### LOOPBACK
+![](LOOPBACK.jpg)
+
+<hr>
+
+### YC
+![](YC.jpg)
+
+<hr>
+
+### CVBS
+![](CVBS.jpg)
+
 
