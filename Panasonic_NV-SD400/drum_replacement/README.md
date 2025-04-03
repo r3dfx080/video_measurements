@@ -4,11 +4,12 @@
 
 ### Old head drum: ~1500-2000 running hours
 
-### New head drum: <500 running hours (most likely even less)\
+### New head drum: <500 running hours (most likely even less)
 
+### Panasonic NV-SD400 -> Panasonic DMR ES-15 -> Blackmagic Intensity Pro (YC)
 <hr>
 
-### TL;DR: marginal difference
+### TL;DR: marginal differences
 
 <hr>
 

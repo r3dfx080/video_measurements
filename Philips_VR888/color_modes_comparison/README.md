@@ -1,10 +1,34 @@
-## This is a comparison between 3 picture modes of Phillips VR888
+# Phillips VR888 picture modes test
 
-### TL;DR
+<hr>
 
-* NORMAL - regular picture, though not colour accurate
-* ENHANCED - noise reduction, not impressive, greatly softens the image
-* INCREDIBLE - added sharpness, suitable for TV captures or poorly recorded tapes
+### Phillips VR888 -> Panasonic DMR ES-15 -> Blackmagic Intensity Pro (YC)
 
-> [!IMPORTANT]  
-> These are RAW screen grabs from Blackmagic Media Express. Use compatible software to open .tga files!
+<hr>
+
+### TL;DR:
+
+* **NORMAL** - regular picture, though not colour accurate
+* **ENHANCED** - noise reduction, not impressive, greatly softens the image
+* **INCREDIBLE** - added sharpness, suitable for TV captures or poorly recorded tapes
+
+<hr>
+
+## NORMAL
+
+![VR888-NORMAL_FOXBARS.png](VR888-NORMAL_FOXBARS.png)
+
+<hr>
+
+## ENHANCED
+
+![VR888-ENHANCED_FOXBARS.png](VR888-ENHANCED_FOXBARS.png)
+
+<hr>
+
+## INCREDIBLE
+
+![VR888-INCREDIBLE_FOXBARS.png](VR888-INCREDIBLE_FOXBARS.png)
+
+<hr>
+
