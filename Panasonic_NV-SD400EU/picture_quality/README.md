@@ -1,4 +1,4 @@
-# Panasonic NV-SD400 general picture quality test
+# Panasonic NV-SD400EU general picture quality test
 
 <hr>
 
@@ -18,7 +18,7 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### Panasonic NV-SD400 -> Blackmagic Intensity Pro (CVBS)
+### Panasonic NV-SD400EU -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 

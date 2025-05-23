@@ -1,4 +1,4 @@
-# Panasonic NV-SD400 head drum assy replacement
+# Panasonic NV-SD400EU head drum assy replacement
 
 <hr>
 
@@ -6,7 +6,7 @@
 
 ### New head drum: <500 running hours (most likely even less)
 
-### Panasonic NV-SD400 -> Panasonic DMR ES-15 -> Blackmagic Intensity Pro (YC)
+### Panasonic NV-SD400EU -> Panasonic DMR ES-15 -> Blackmagic Intensity Pro (YC)
 <hr>
 
 ### TL;DR: marginal differences

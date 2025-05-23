@@ -20,7 +20,7 @@ vhs decode configuration:  `--y_comb --use_saved_levels -f 20 -t 6 --tf vhs --no
 
 ### SW
 
-![SW.png](SW.png)
+![SW.png](DECODE_SW.png)
 
 <hr>
 
@@ -32,7 +32,7 @@ vhs decode configuration:  `--y_comb --use_saved_levels -f 20 -t 6 --tf vhs --no
 
 ### RES
 
-![RES.png](RES.png)
+![RES.png](DECODE_RES.png)
 
 <hr>
 

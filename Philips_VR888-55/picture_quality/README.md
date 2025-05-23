@@ -1,4 +1,4 @@
-# Panasonic NV-SR55 general picture quality test
+# Philips VR888/55 general picture quality test
 
 <hr>
 
@@ -12,28 +12,31 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### TL;DR: not bad overall, but line stability is mediocre at best
+<hr>
+
+### TL;DR: pretty good NR and subtle sharpening
 
 <hr>
 
-### Panasonic NV-SR55 -> Blackmagic Intensity Pro (CVBS)
+### Philips VR888/55 [NORMAL mode] -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
 ### SW
 
-![SW.png](SR55_SW.png)
+![SW.png](VR888_SW.png)
 
 <hr>
 
 ### RES+COL
-![RES+COL.png](SR55_RES%2BCOL.png)
+
+![RES+COL.png](RES%2BCOL.png)
 
 <hr>
 
 ### RES
 
-![RES.png](SR55_RES.png)
+![RES.png](VR888_RES.png)
 
 <hr>
 

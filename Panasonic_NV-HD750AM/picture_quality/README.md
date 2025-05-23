@@ -16,7 +16,7 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### Panasonic NV-HD750 -> Blackmagic Intensity Pro (CVBS)
+### Panasonic NV-HD750AM -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
