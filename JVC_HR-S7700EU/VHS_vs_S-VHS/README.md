@@ -32,11 +32,11 @@
 
 ### S-VHS ET
 
-![RES+COL_SVHS.png](RES%2BCOL_SVHS.png)
+![RES+COL_SVHS.png](S7700_RES%2BCOL_SVHS.png)
 
 ### VHS
 
-![RES+COL_VHS.png](RES%2BCOL_VHS.png)
+![RES+COL_VHS.png](S7700_RES%2BCOL_VHS.png)
 
 <hr>
 

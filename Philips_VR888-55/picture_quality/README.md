@@ -30,7 +30,7 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 ### RES+COL
 
-![RES+COL.png](RES%2BCOL.png)
+![RES+COL.png](VR888_RES%2BCOL.png)
 
 <hr>
 

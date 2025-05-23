@@ -1,4 +1,4 @@
-# Panasonic NV-SD400EU general picture quality test
+# Philips VR355/55 general picture quality test
 
 <hr>
 
@@ -14,29 +14,29 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### TL;DR: very subtle DNR (if none), good picture stability
+### TL;DR: generally not bad, though HF drop is somewhat noticeable 
 
 <hr>
 
-### Panasonic NV-SD400EU -> Blackmagic Intensity Pro (CVBS)
+### Philips VR355/55 -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
 ### SW
 
-![SW.png](SD400_SW.png)
+![SW.png](VR355_SW.png)
 
 <hr>
 
 ### RES+COL
 
-![RES+COL.png](SD400_RES%2BCOL.png)
+![RES+COL.png](VR355_RES%2BCOL.png)
 
 <hr>
 
 ### RES
 
-![RES.png](SD400_RES.png)
+![RES.png](VR355_RES.png)
 
 <hr>
 
