@@ -12,8 +12,8 @@
 
 ### DNR
 
-![DNR.png](DNR.png)
+![DNR.png](S7700_DNR.png)
 
 ### NO DNR
 
-![NO_DNR.png](NO_DNR.png)
+![NO_DNR.png](S7700_NO_DNR.png)

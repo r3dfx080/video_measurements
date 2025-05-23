@@ -34,11 +34,11 @@
 <hr>
 
 ### YC
-![](YC.jpg)
+![](TBC7000_YC.jpg)
 
 <hr>
 
 ### CVBS
-![](CVBS.jpg)
+![](TBC7000_CVBS.jpg)
 
 

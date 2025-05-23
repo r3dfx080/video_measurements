@@ -20,11 +20,11 @@
 
 ### S-VHS ET
 
-![SW_SVHS.png](SW_SVHS.png)
+![SW_SVHS.png](S7700_SW_SVHS.png)
 
 ### VHS
 
-![SW_VHS.png](SW_VHS.png)
+![SW_VHS.png](S7700_SW_VHS.png)
 
 <hr>
 
@@ -44,8 +44,8 @@
 
 ### S-VHS ET
 
-![RES_SVHS.png](RES_SVHS.png)
+![RES_SVHS.png](S7700_RES_SVHS.png)
 
 ### VHS
 
-![RES_VHS.png](RES_VHS.png)
+![RES_VHS.png](S7700_RES_VHS.png)

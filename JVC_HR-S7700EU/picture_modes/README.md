@@ -14,22 +14,22 @@
 
 ### NORMAL
 
-![NORM.png](NORM.png)
+![NORM.png](S7700_NORM.png)
 
 <hr>
 
 ### EDIT
 
-![EDIT.png](EDIT.png)
+![EDIT.png](S7700_EDIT.png)
 
 <hr>
 
 ### SOFT
 
-![SOFT.png](SOFT.png)
+![SOFT.png](S7700_SOFT.png)
 
 <hr>
 
 ### SHARP
 
-![SHARP.png](SHARP.png)
+![SHARP.png](S7700_SHARP.png)

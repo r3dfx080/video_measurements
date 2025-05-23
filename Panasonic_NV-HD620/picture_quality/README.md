@@ -12,8 +12,6 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-<hr>
-
 ### TL;DR: prominent DNR, unremarkable picture stability (at least when non-serviced)
 
 <hr>
@@ -24,19 +22,19 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 ### SW
 
-![SW.png](SW.png)
+![SW.png](HD620_SW.png)
 
 <hr>
 
 ### RES+COL
 
-![RES+COL.png](RES%2BCOL.png)
+![RES+COL.png](HD620_RES%2BCOL.png)
 
 <hr>
 
 ### RES
 
-![RES.png](RES.png)
+![RES.png](HD620_RES.png)
 
 <hr>
 

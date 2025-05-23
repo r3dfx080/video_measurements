@@ -1,4 +1,4 @@
-# Panasonic NV-FJ700 image quality test
+# Panasonic NV-FJ700AM image quality test
 
 Only one screenshot from Media Express was taken before I sold this VCR, thus this page lacks proper images for comparison
 
@@ -7,7 +7,7 @@ Only one screenshot from Media Express was taken before I sold this VCR, thus th
 
 <hr>
 
-### Panasonic NV-FJ700 -> Blackmagic Intensity Pro (CVBS)
+### Panasonic NV-FJ700AM -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
