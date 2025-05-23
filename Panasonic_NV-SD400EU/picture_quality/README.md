@@ -1,4 +1,4 @@
-# Panasonic NV-HD620 general picture quality test
+# Panasonic NV-SD400 general picture quality test
 
 <hr>
 
@@ -12,29 +12,31 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### TL;DR: prominent DNR, unremarkable picture stability (at least when non-serviced)
+<hr>
+
+### TL;DR: very subtle DNR (if none), good picture stability
 
 <hr>
 
-### Panasonic NV-HD620 -> Blackmagic Intensity Pro (CVBS)
+### Panasonic NV-SD400 -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
 ### SW
 
-![SW.png](HD620_SW.png)
+![SW.png](SD400_SW.png)
 
 <hr>
 
 ### RES+COL
 
-![RES+COL.png](HD620_RES%2BCOL.png)
+![RES+COL.png](RES%2BCOL.png)
 
 <hr>
 
 ### RES
 
-![RES.png](HD620_RES.png)
+![RES.png](SD400_RES.png)
 
 <hr>
 

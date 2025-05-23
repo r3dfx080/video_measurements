@@ -1,4 +1,4 @@
-# Panasonic NV-SD400 EDIT mod
+# Panasonic NV-SD400EU EDIT mod
 
 <hr>
 
@@ -29,19 +29,19 @@ EDIT mode has less noise reduction and gives you a better picture in general.
 
 Following screenshots were taken from BM Media Express. This is a straight capture, so ignore color artifacts
 
-**Panasonic NV-SD400 -> BM Intensity Pro (CVBS)**
+**Panasonic NV-SD400EU -> BM Intensity Pro (CVBS)**
 
 <hr>
 
 ### NORMAL mode
 
-![NORMAL.png](NORMAL.png)
+![NORMAL.png](SD400_NORMAL.png)
 
 <hr>
 
 ### EDIT mode
 
-![EDIT.png](EDIT.png)
+![EDIT.png](SD400_EDIT.png)
 
 <hr>
 

@@ -1,4 +1,4 @@
-# Panasonic NV-HD750 general picture quality test
+# Panasonic NV-HD620EU general picture quality test
 
 <hr>
 
@@ -12,28 +12,29 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### TL;DR: one of the best HF extensions, yet somewhat poor line stability
+### TL;DR: prominent DNR, unremarkable picture stability (at least when non-serviced)
 
 <hr>
 
-### Panasonic NV-HD750 -> Blackmagic Intensity Pro (CVBS)
+### Panasonic NV-HD620EU -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
 ### SW
 
-![SW.png](HD750_SW.png)
+![SW.png](HD620_SW.png)
 
 <hr>
 
 ### RES+COL
-![RES+COL.png](HD750_RES%2BCOL.png)
+
+![RES+COL.png](HD620_RES%2BCOL.png)
 
 <hr>
 
 ### RES
 
-![RES.png](HD750_RES.png)
+![RES.png](HD620_RES.png)
 
 <hr>
 

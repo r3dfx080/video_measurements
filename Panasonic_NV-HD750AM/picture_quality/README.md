@@ -1,4 +1,4 @@
-# Panasonic NV-SD400 general picture quality test
+# Panasonic NV-HD750AM general picture quality test
 
 <hr>
 
@@ -12,31 +12,28 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-<hr>
-
-### TL;DR: very subtle DNR (if none), good picture stability
+### TL;DR: one of the best HF extensions, yet somewhat poor line stability
 
 <hr>
 
-### Panasonic NV-SD400 -> Blackmagic Intensity Pro (CVBS)
+### Panasonic NV-HD750 -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
 ### SW
 
-![SW.png](SW.png)
+![SW.png](HD750_SW.png)
 
 <hr>
 
 ### RES+COL
-
-![RES+COL.png](RES%2BCOL.png)
+![RES+COL.png](HD750_RES%2BCOL.png)
 
 <hr>
 
 ### RES
 
-![RES.png](RES.png)
+![RES.png](HD750_RES.png)
 
 <hr>
 

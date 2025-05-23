@@ -1,4 +1,4 @@
-# Panasonic NV-SD400 tests
+# Panasonic NV-SD400EU tests
 
 ###  [picture_quality](picture_quality%2FREADME.md) - general picture quality test on a serviced unit with EDIT mod and swapped drum assy
 

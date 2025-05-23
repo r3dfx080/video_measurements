@@ -15,8 +15,8 @@
 
 ### OLD
 
-![old_drum.png](OLD_DRUM_FOXBARS.png)
+![old_drum.png](SD400_OLD_DRUM_FOXBARS.png)
 
 ### NEW
 
-![new_drum.png](NEW_DRUM_FOXBARS.png)
+![new_drum.png](SD400_NEW_DRUM_FOXBARS.png)
