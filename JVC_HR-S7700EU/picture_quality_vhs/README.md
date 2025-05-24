@@ -1,4 +1,4 @@
-# Philips VR355/55 general picture quality test
+# JVC HR-S7700EU general picture quality test
 
 <hr>
 
@@ -12,29 +12,33 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### TL;DR: generally not bad, though HF drop is somewhat noticeable 
+### TL;DR: poor frequency response (losing details) in comparison with _VHS-only_ VCRs
 
 <hr>
 
-### Philips VR355/55 -> Blackmagic Intensity Pro (CVBS)
+* **TBC/NR** - on
+* **3R NR**  - off
+* **EDIT** mode
+
+### JVC HR-S7700EU -> Blackmagic Intensity Pro (Y/C)
 
 <hr>
 
 ### SW
 
-![SW.png](VR355_SW.png)
+![S7700_SW_VHS.png](S7700_SW_VHS.png)
 
 <hr>
 
 ### RES+COL
 
-![RES+COL.png](VR355_RES%2BCOL.png)
+![S7700_RES+COL_VHS.png](S7700_RES%2BCOL_VHS.png)
 
 <hr>
 
 ### RES
 
-![RES.png](VR355_RES.png)
+![S7700_RES_VHS.png](S7700_RES_VHS.png)
 
 <hr>
 

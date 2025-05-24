@@ -12,8 +12,6 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-<hr>
-
 ### TL;DR: very subtle DNR (if none), good picture stability
 
 <hr>
