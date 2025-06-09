@@ -9,12 +9,11 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-vhs decode setup: **Philips VR355 -> CX card (40MHz crystal) at 8bit/20Msps**
+vhs decode setup: **Philips VR355 -> CX card (40MHz crystal) at 8bit/18MSps**
 
-vhs decode configuration:  `--y_comb --use_saved_levels -f 20 -t 6 --tf vhs --no_resample --nld --recheck_phase`
+vhs decode configuration:  `--y_comb -f 18 -t 3 --tf vhs --no_resample --recheck_phase`, Transform PAL 2D at 0.01 is used with luma NR disabled
 
-> [!NOTE]
-> These are interlaced exported frames from ld-analyse (Transform PAL 2D at 0.01 is used with luma NR disabled)
+The rhombus pattern on color squares is caused by impedance mismatch between head preamp and capture card. I'm planning to make a separate buffer amp soon
 
 <hr>
 
@@ -26,7 +25,7 @@ vhs decode configuration:  `--y_comb --use_saved_levels -f 20 -t 6 --tf vhs --no
 
 ### RES+COL
 
-![RES+COL.png](RES%2BCOL.png)
+![DECODE_RES+COL.png](DECODE_RES%2BCOL.png)
 
 <hr>
 
