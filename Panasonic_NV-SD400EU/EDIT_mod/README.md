@@ -2,7 +2,7 @@
 
 <hr>
 
-### This mod enables EDIT mode on Panasonic 300/350/400/450 series (maybe on even more models)
+### This mod enables EDIT mode on Panasonic 300/350/400/450 (maybe on even more models)
 
 <hr>
 
