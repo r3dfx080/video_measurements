@@ -1,4 +1,4 @@
-# Panasonic NV-HD620EU general picture quality test
+# Panasonic NV-HV60EE-S general picture quality test
 
 <hr>
 
@@ -12,29 +12,29 @@ Test tape was recorded with **BM Intensity Pro -> JVC HR-S7700EU (Y/C)** from Da
 
 <hr>
 
-### TL;DR: prominent NR, unremarkable picture stability (at least when non-serviced)
+### TL;DR: good FR extension, mediocre line stability
 
 <hr>
 
-### Panasonic NV-HD620EU -> Blackmagic Intensity Pro (CVBS)
+### Panasonic NV-HV60EE-S -> Blackmagic Intensity Pro (CVBS)
 
 <hr>
 
 ### SW
 
-![SW.png](HD620_SW.png)
+![SW.png](HV60_SW.png)
 
 <hr>
 
 ### RES+COL
 
-![RES+COL.png](HD620_RES%2BCOL.png)
+![RES+COL.png](HV60_RES%2BCOL.png)
 
 <hr>
 
 ### RES
 
-![RES.png](HD620_RES.png)
+![RES.png](HV60_RES.png)
 
 <hr>
 
